@@ -32,7 +32,7 @@ func main (){
 
 	// 分割 ---------------------------通道------------------------------
 
-	/*msgChan :=make(chan int,5)
+	msgChan :=make(chan int,5)
 	overChan := make(chan string)
 
 	go func(){
@@ -52,7 +52,7 @@ func main (){
 	}
 	}()
 
-	fmt.Println("无缓冲结束",<-overChan)*/
+	fmt.Println("无缓冲结束",<-overChan)
 	//time.Sleep(time.Second*3)
 
 	/*chan10 := make (chan int,1)

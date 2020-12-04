@@ -20,20 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a12cd9a-dc46-402c-9788-e1c46b8ec3aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gorepo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goByExample/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goByExample/perror/dividedArgError.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goByExample/pfunc/divided.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goByExample/pfunc/loop.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goByExample/pfunc/worker.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goByExample/pfunc/workerInWG.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goByExample/pstruct/person.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goByExample/pstruct/student.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goByExample/pxml/nesting.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goByExample/pxml/plant.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/goByExample/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/goByExample/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
